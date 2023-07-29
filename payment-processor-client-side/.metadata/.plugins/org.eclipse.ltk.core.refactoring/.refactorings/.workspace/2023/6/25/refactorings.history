@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;payment-processor-client-side&apos; to &apos;payment-processor-api-gateway&apos;&#x0D;&#x0A;- Original element: &apos;payment-processor-client-side&apos;&#x0D;&#x0A;- Renamed element: &apos;payment-processor-client-side&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;payment-processor-client-side&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=payment-processor-client-side" name="payment-processor-api-gateway" references="true" stamp="1687520818503" version="1.0"/>
+</session>
